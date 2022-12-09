@@ -78,12 +78,12 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
 | Grey           | ![#151515](https://via.placeholder.com/10/151515?text=+) `#151515` |
-| Light Grey     | ![#112240](https://via.placeholder.com/10/151515?text=+) `#112240` |
-| Lightest Grey  | ![#233554](https://via.placeholder.com/10/303C55?text=+) `#233554` |
-| Slate          | ![#8892b0](https://via.placeholder.com/10/8892b0?text=+) `#8892b0` |
-| Light Slate    | ![#a8b2d1](https://via.placeholder.com/10/a8b2d1?text=+) `#a8b2d1` |
-| Lightest Slate | ![#ccd6f6](https://via.placeholder.com/10/ccd6f6?text=+) `#ccd6f6` |
-| White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
+| Light Grey     | ![#333333](https://via.placeholder.com/10/151515?text=+) `#333333` |
+| Lightest Grey  | ![#888888](https://via.placeholder.com/10/303C55?text=+) `#888888` |
+| Slate          | ![#eeeeee](https://via.placeholder.com/10/eeeeee?text=+) `#eeeeee` |
+| Light Slate    | ![#aaaaaa](https://via.placeholder.com/10/aaaaaa?text=+) `#aaaaaa` |
+| Lightest Slate | ![#c1c1c1](https://via.placeholder.com/10/c1c1c1?text=+) `#c1c1c1` |
+| White          | ![#fffcfc](https://via.placeholder.com/10/fffcfc?text=+) `#fffcfc` |
 | Green          | ![#64ffda](https://via.placeholder.com/10/64ffda?text=+) `#64ffda` |
 
 # k-se-portolio

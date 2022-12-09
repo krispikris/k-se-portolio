@@ -5,7 +5,7 @@ module.exports = {
     title: 'Kristopher Han',
     description:
       'Kristopher Han is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://kristopherhan.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
@@ -23,7 +23,7 @@ module.exports = {
         name: 'Kristopher Han',
         short_name: 'Kristopher Han',
         start_url: '/',
-        background_color: config.colors.darkNavy,
+        background_color: config.colors.darkGrey,
         theme_color: config.colors.grey,
         display: 'minimal-ui',
         icon: 'src/images/logo.png',
