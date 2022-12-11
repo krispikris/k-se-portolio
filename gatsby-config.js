@@ -6,8 +6,8 @@ module.exports = {
     description:
       'Kristopher Han is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://kristopherhan.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    image: '/kh.jpg', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -21,12 +21,12 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Kristopher Han',
-        short_name: 'Kristopher Han',
+        short_name: 'Kris',
         start_url: '/',
         background_color: config.colors.darkGrey,
         theme_color: config.colors.grey,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/kh-logo-white.png',
       },
     },
     `gatsby-plugin-offline`,
