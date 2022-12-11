@@ -17,7 +17,7 @@ const StyledHeader = styled.header`
   padding: 0px 50px;
   width: 100%;
   height: var(--nav-height);
-  background-color: rgba(10, 25, 47, 0.85);
+  background-color: #232323;
   filter: none !important;
   pointer-events: auto !important;
   user-select: auto !important;
@@ -173,7 +173,11 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+    <a
+      className="resume-button"
+      href="https://docs.google.com/document/d/1VJijSrICjROJh0KttXbWwB2YI1yKI9IrPGwPUDDqQTw/"
+      target="_blank"
+      rel="noopener noreferrer">
       Resume
     </a>
   );
