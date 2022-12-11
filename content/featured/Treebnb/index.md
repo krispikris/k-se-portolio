@@ -1,16 +1,17 @@
 ---
 date: '2022-11-14'
-title: 'Disco-ord'
-cover: './disco-ord-demo.png'
-cta: 'https://github.com/B1G-M0N3Y/Disco-Discord'
-external: 'https://disco-ord.onrender.com/'
+title: 'Treebnb'
+cover: './Treebnb.png'
+github: 'https://github.com/krispikris/k-bnb/'
+external: 'https://air-bnb-project-kris.herokuapp.com/'
 tech:
-  - Python
+  - Javascript
+  - Express
   - React
   - Redux
   - HTML5
   - CSS
-  - Render
+  - Heroku
 ---
 
-Disco-ord is a clone of Discord, with a twist. Users can message each other (websockets), while having the ability to create servers and channels.
+Treebnb is a clone of AirBnB. Users can host their property and leave reviews at locations they have stayed at and enjoyed.

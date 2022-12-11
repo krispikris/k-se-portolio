@@ -9,6 +9,7 @@ tech:
   - Redux
   - HTML5
   - CSS
+company: 'appAcademy'
 showInProjects: true
 ---
 
