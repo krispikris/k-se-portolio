@@ -2,7 +2,7 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-grey: #020c1b;
+    --dark-grey: #151515;
     --grey: #151515;
     --light-grey: #333333;
     --lightest-grey: #888888;
