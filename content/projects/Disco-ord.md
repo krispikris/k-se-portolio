@@ -11,7 +11,7 @@ tech:
   - CSS
   - Render
 company: 'appAcademy'
-showInProjects: false
+showInProjects: true
 ---
 
 Disco-ord is a clone of Discord, with a twist. Users can message each other (websockets), while having the ability to create servers and channels.

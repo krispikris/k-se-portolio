@@ -1,6 +1,6 @@
 ---
-date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
+date: '2011-11-11'
+title: 'Example Do Not Delete'
 github: ''
 external: 'https://www.upstatement.com/work/moms-demand-action/'
 ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'

@@ -12,7 +12,7 @@ tech:
   - CSS
   - Heroku
 company: 'appAcademy'
-showInProjects: false
+showInProjects: true
 ---
 
 Treebnb is a clone of AirBnB. Users can host their property and leave reviews at locations they have stayed at and enjoyed.
