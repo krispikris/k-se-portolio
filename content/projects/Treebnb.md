@@ -1,8 +1,10 @@
 ---
-date: '2020-07-16'
+date: '2022-09-27'
 title: 'Treebnb'
 github: 'https://github.com/krispikris/k-bnb'
 external: 'https://air-bnb-project-kris.herokuapp.com/'
+ios: ''
+android: ''
 tech:
   - Javascript
   - Express

@@ -2,6 +2,7 @@
 date: '1'
 title: 'atlas'
 cover: './atlas-no-wrap.png'
+cta: 'https://atlas-zgku.onrender.com/'
 github: 'https://github.com/krispikris/atlas-iii'
 external: 'https://atlas-zgku.onrender.com/'
 tech:

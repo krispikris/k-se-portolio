@@ -2,8 +2,8 @@
 date: '2022-11-14'
 title: 'Treebnb'
 cover: './Treebnb.png'
+github: 'https://github.com/krispikris/k-bnb/'
 external: 'https://air-bnb-project-kris.herokuapp.com/'
-cta: 'https://github.com/krispikris/k-bnb'
 tech:
   - Javascript
   - Express
