@@ -64,26 +64,34 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building exceptional digital experiences. Currently,
-        I’m focused on building accessible, human-centered products at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a client-focused software engineer with a proven record in utilizing a consultative
+        approach to problem-solving. I am passionate about helping businesses grow while providing a
+        joyful client experience.
+        <p>
+          Skilled in Software Development, Sales, Real Estate, and Customer Service with a
+          Bachelor's Degree focused in Business Economics from the University of California, Irvine.
+        </p>
+        <p>
+          Currently I’m focused completing my studies at{' '}
+          <a href="https://www.appacademy.io/" target="_blank" rel="noreferrer">
+            appAcademy
+          </a>
+          .
+        </p>
       </p>
     </>
   );
-  const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
+  // const five = (
+  //   <a
+  //     className="email-link"
+  //     href="https://www.newline.co/courses/build-a-spotify-connected-app"
+  //     target="_blank"
+  //     rel="noreferrer">
+  //     Check out my course!
+  //   </a>
+  // );
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>
