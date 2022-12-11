@@ -46,7 +46,7 @@ module.exports = {
   colors: {
     green: '#64ffda',
     grey: '#151515',
-    darkGrey: '#33333',
+    darkGrey: '#151515',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({
