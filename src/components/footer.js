@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <div>Created & Designed</div>
+        <div>Created & Designed by</div>
         <a href="https://github.com/krispikris">
           {/* <div>Designed &amp; Styled by Kristopher Han · Britney Chiang</div> */}
           <div>Kristopher Han · Britney Chiang</div>
