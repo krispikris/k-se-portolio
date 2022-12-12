@@ -2,7 +2,7 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-grey: #020c1b;
+    --dark-grey: #151515;
     --grey: #151515;
     --light-grey: #333333;
     --lightest-grey: #888888;
@@ -31,8 +31,8 @@ const variables = css`
     --fz-heading: 32px;
 
     --border-radius: 4px;
-    --nav-height: 100px;
-    --nav-scroll-height: 70px;
+    --nav-height: 150px;
+    --nav-scroll-height: 180px;
 
     --tab-height: 42px;
     --tab-width: 120px;

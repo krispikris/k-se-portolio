@@ -5,6 +5,8 @@ github: 'https://github.com/krispikris/k-bnb'
 external: 'https://air-bnb-project-kris.herokuapp.com/'
 ios: ''
 android: ''
+# ios: 'https://www.apple.com/app-store/'
+# android: 'https://play.google.com/store/'
 tech:
   - Javascript
   - Express
